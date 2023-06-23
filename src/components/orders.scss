@@ -1,0 +1,13 @@
+.ordersContainer{
+  display: grid;
+  // grid-template-columns: minmax(200px, auto);
+  grid-template-columns: repeat(1, 1fr);
+  color: #000;
+}
+
+.orderCard{
+  border: 1px solid black;
+  margin: 40px;
+  background-color: #FCDEB4;
+  padding: 15px;
+}

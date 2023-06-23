@@ -1,0 +1,106 @@
+{
+  "employees": [
+    {
+      "id": 2,
+      "jobTitleName": "Program Directory",
+      "firstName": "TO",
+      "lastName": "BANKS",
+      "phoneNumber": "408-2222222",
+      "emailAddress": "tomhanks@gmail.com"
+    },
+    {
+      "firstName": "TEST4",
+      "lastName": "nam",
+      "jobTitleName": "job",
+      "emailAddress": "emai@l.lt",
+      "phoneNumber": "564654654",
+      "id": 6
+    },
+    {
+      "firstName": "nameTEST",
+      "lastName": "surnameTEST",
+      "jobTitleName": "JOB",
+      "emailAddress": "emai@l.lt",
+      "phoneNumber": "564654654",
+      "id": 7
+    },
+    {
+      "firstName": "nameTEST",
+      "lastName": "surnameTEST",
+      "jobTitleName": "JOB",
+      "emailAddress": "emai@l.lt",
+      "phoneNumber": "564654654",
+      "id": 8
+    },
+    {
+      "firstName": "rfygh",
+      "lastName": "hfgd",
+      "jobTitleName": "dfhg",
+      "emailAddress": "fdgh@dfg",
+      "phoneNumber": "15465454",
+      "id": 9
+    },
+    {
+      "firstName": "rfygh",
+      "lastName": "hfgd",
+      "jobTitleName": "dfhg",
+      "emailAddress": "fdgh@dfg",
+      "phoneNumber": "15465454",
+      "id": 10
+    }
+  ],
+  "menu": [
+    {
+      "title": "Main dishes",
+      "id": 1
+    },
+    {
+      "title": "Desserts",
+      "id": 2
+    },
+    {
+      "title": "Salads",
+      "id": 3
+    },
+    {
+      "title": "Soups",
+      "id": 4
+    },
+    {
+      "title": "Pizza",
+      "id": 5
+    }
+  ],
+  "meals": [
+    {
+      "title": "Roast Duck Breast",
+      "description": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
+      "menu": 1
+    },
+    {
+      "title": "Pizza Margherita",
+      "description": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
+      "menu": 5
+    },
+    {
+      "title": "Greek Salad",
+      "description": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
+      "menu": 3
+    },
+    {
+      "title": "Spinach Soup",
+      "description": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
+      "menu": 4
+    },
+    {
+      "title": "Cherry Pie",
+      "description": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
+      "menu": 2
+    },
+    {
+      "title": "Apple Pie",
+      "description": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
+      "menu": 2
+    }
+  ]
+}

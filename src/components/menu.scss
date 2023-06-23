@@ -1,0 +1,35 @@
+.menuWrapper{
+    width: 60vw;
+    height: 100%;
+    margin: 10px auto;
+    padding: 15px;
+    background-color: #A9421A;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 6px;
+}
+.menuTitle{
+    display: block;
+    margin: 10px auto;
+    font-size: 3rem;
+    width: 100px;
+}
+.menuContainer{
+    display: grid;
+    // grid-template-columns: minmax(200px, auto);
+    grid-template-columns: repeat(2, 1fr);
+    color: #000;
+}
+
+.menuCard {
+    border: 1px solid black;
+    margin: 50px;
+    background-color: #FCDEB4;
+    padding: 15px;
+
+    // width: 500px;
+    // height: 200px;
+}
+body{
+    // background-color: #A9421A;
+    background-color: #fff;
+}

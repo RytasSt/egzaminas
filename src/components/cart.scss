@@ -1,0 +1,25 @@
+.cartContainer {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  padding: 10px;
+
+}
+.cartItem {
+  border:  1px solid black;
+  padding: 10px;
+  margin: 15px;
+}
+.countHandler {
+  display: flex;
+  // width: 50;
+}
+.orderButton{
+  margin: 0 auto;
+  display: block;
+}
+
+.orderSuccess {
+  color: aqua;
+  font-size: 2rem;
+  width: 0 auto;
+}
